@@ -41,6 +41,9 @@ Markdown format:
 ## Text-based Detection
 
 ## Multi-modal Detection
+- EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection. [[link]](https://dl.acm.org/doi/abs/10.1145/3219819.3219903) [[code]](https://github.com/yaqingwang/EANN-KDD18)
+  - Wang Yaqing, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao.
+  - An end-to-end framework benefits fake news detection on newly arrived events by derive event-invariant features using adversarial network.
 
 ## Using Social Context
 
