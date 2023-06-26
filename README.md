@@ -41,15 +41,39 @@ Markdown format:
 ## Text-based Detection
 
 ## Multi-modal Detection
-- EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection. [[link]](https://dl.acm.org/doi/abs/10.1145/3219819.3219903) [[code]](https://github.com/yaqingwang/EANN-KDD18)
-  - Wang Yaqing, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao.
-  - An end-to-end framework benefits fake news detection on newly arrived events by derive event-invariant features using adversarial network.
+- EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection. [[link]](https://dl.acm.org/doi/abs/10.1145/3219819.3219903) [[code]](https://github.com/yaqingwang/EANN-KDD18).
+  - W Yaqing, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao.
+
+- Multi-Modal Adversarial Adaptive Network for Misinformation Detection on Social Media [[link]](https://ieeexplore.ieee.org/abstract/document/9859648/).
+  - L Zhang, P Zhang, X Zhu, L Liu, H Xu, ICME, 2022.
+
+- Improving Generalization for Multimodal Fake News Detection [[link]](https://dl.acm.org/doi/abs/10.1145/3591106.3592230).
+  - S Tahmasebi, S Hakimov, R Ewerth, ICMR, 2023.
+
+- MRML: Multimodal Rumor Detection by Deep Metric Learning [[link]](https://ieeexplore.ieee.org/abstract/document/10096188).
+  - L Peng, S Jian, D Li, S Shen, ICASSP, 2023.
+
+- Graph Interactive Network with Adaptive Gradient for Multi-Modal Rumor Detection [[link]](https://dl.acm.org/doi/abs/10.1145/3591106.3592250).
+  - T Sun, Z Qian, P Li, Q Zhu, ICMR, 2023.
+
+- AdaDebunk: An Efficient and Reliable Deep State Space Model for Adaptive Fake News Early Detection [[link]](https://dl.acm.org/doi/abs/10.1145/3511808.3557227).
+  - K Li, B Guo, S Ren, Z Yu, CIKM, 2022.
+
+- Multi-modal Fake News Detection on Social Media via Multi-grained Information Fusion [[link]](https://dl.acm.org/doi/abs/10.1145/3591106.3592271).
+- Y Zhou, Y Yang, Q Ying, Z Qian, X Zhang, ICMR, 2023.
 
 ## Using Social Context
 
 ### User Information
+- Learning Sparse Alignments via Optimal Transport for Cross-Domain Fake News Detection [[link]](https://ieeexplore.ieee.org/abstract/document/10095281) [[code]](https://github.com/OceanTangWei/NOT).
+  - W Tang, Z Ma, H Sun, J Wang, ICASSP, 2023.
+
+- Unsupervised Rumor Detection Based on Propagation Tree VAE [[link]](https://ieeexplore.ieee.org/abstract/document/10103675).
+  - L Fang, K Feng, K Zhao, A Hu, T, Li, TKDE, 2023. 
 
 ### Comment
+- Cross-Modal Adversarial Contrastive Learning for Multi-Modal Rumor Detection [[link]](https://ieeexplore.ieee.org/abstract/document/10096883).
+  - T Zou, Z Qian, P Li, Q Zhu, ICASSP, 2023.
 
 ## Fact-checking
 - A Survey on Automated Fact-Checking [[link]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking).
