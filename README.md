@@ -48,7 +48,6 @@ Markdown format:
 - A Survey on Multimodal Disinformation Detection. [[link]](https://aclanthology.org/2022.coling-1.576/)
   -  F Alam, S Cresci, T Chakraborty, F Silvestri. *COLING*, 2022.
 ## Text-based Detection
-
 - Detect Rumors on Twitter by Promoting Information Campaigns with Generative Adversarial Learning.
   [[link]](https://dl.acm.org/doi/10.1145/3308558.3313741)
   [[code]](https://github.com/majingCUHK/Rumor_GAN)
@@ -69,6 +68,28 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/document/9802916)
   - Y Zhu, Q Sheng, J Cao, Q Nan, K Shu. IEEE Transactions on Knowledge and Data Engineering 2022.
 
+=======
+## Multi-modal Detection
+- EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection. [[link]](https://dl.acm.org/doi/abs/10.1145/3219819.3219903) [[code]](https://github.com/yaqingwang/EANN-KDD18).
+  - W Yaqing, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao.
+
+- Multi-Modal Adversarial Adaptive Network for Misinformation Detection on Social Media [[link]](https://ieeexplore.ieee.org/abstract/document/9859648/).
+  - L Zhang, P Zhang, X Zhu, L Liu, H Xu, ICME, 2022.
+
+- Improving Generalization for Multimodal Fake News Detection [[link]](https://dl.acm.org/doi/abs/10.1145/3591106.3592230).
+  - S Tahmasebi, S Hakimov, R Ewerth, ICMR, 2023.
+
+- MRML: Multimodal Rumor Detection by Deep Metric Learning [[link]](https://ieeexplore.ieee.org/abstract/document/10096188).
+  - L Peng, S Jian, D Li, S Shen, ICASSP, 2023.
+
+- Graph Interactive Network with Adaptive Gradient for Multi-Modal Rumor Detection [[link]](https://dl.acm.org/doi/abs/10.1145/3591106.3592250).
+  - T Sun, Z Qian, P Li, Q Zhu, ICMR, 2023.
+
+- AdaDebunk: An Efficient and Reliable Deep State Space Model for Adaptive Fake News Early Detection [[link]](https://dl.acm.org/doi/abs/10.1145/3511808.3557227).
+  - K Li, B Guo, S Ren, Z Yu, CIKM, 2022.
+
+- Multi-modal Fake News Detection on Social Media via Multi-grained Information Fusion [[link]](https://dl.acm.org/doi/abs/10.1145/3591106.3592271).
+- Y Zhou, Y Yang, Q Ying, Z Qian, X Zhang, ICMR, 2023.
 
 ## Multi-modal Detection
 - EANN: Event Adversarial Neural Networks for Multi-Modal Fake News Detection.
@@ -113,6 +134,11 @@ Markdown format:
 ## Using Social Context
 
 ### User Information
+- Learning Sparse Alignments via Optimal Transport for Cross-Domain Fake News Detection [[link]](https://ieeexplore.ieee.org/abstract/document/10095281) [[code]](https://github.com/OceanTangWei/NOT).
+  - W Tang, Z Ma, H Sun, J Wang, ICASSP, 2023.
+
+- Unsupervised Rumor Detection Based on Propagation Tree VAE [[link]](https://ieeexplore.ieee.org/abstract/document/10103675).
+  - L Fang, K Feng, K Zhao, A Hu, T, Li, TKDE, 2023. 
 
 
 
@@ -165,6 +191,8 @@ Markdown format:
     
  
 ### Comment
+- Cross-Modal Adversarial Contrastive Learning for Multi-Modal Rumor Detection [[link]](https://ieeexplore.ieee.org/abstract/document/10096883).
+  - T Zou, Z Qian, P Li, Q Zhu, ICASSP, 2023.
 
 - Weak Supervision for Fake News Detection via Reinforcement Learning.
   [[link]](https://aaai.org/papers/00516-weak-supervision-for-fake-news-detection-via-reinforcement-learning/)
@@ -175,6 +203,38 @@ Markdown format:
   [[link]](https://aaai.org/papers/00516-weak-supervision-for-fake-news-detection-via-reinforcement-learning/)
   - Y Wang, W Yang, F Ma, J Xu, B Zhong. *AAAI*, 2020.
 ## Fact-checking
+- A Survey on Automated Fact-Checking [[link]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking).
+    - Z Guo, M Schlichtkrull, A Vlachos. Transactions of the ACL, 2022.
+
+- Evidence-aware Fake News Detection with Graph Neural Networks [[link]](https://dl.acm.org/doi/abs/10.1145/3485447.3512122)
+    - W Xu, J Wu, Q Liu, S Wu, L Wang, WWW, 2022.
+
+- Open-Domain, Content-based, Multi-modal Fact-checking of Out-of-Context Images via Online Resources [[link]](https://openaccess.thecvf.com/content/CVPR2022/html/Abdelnabi_Open-Domain_Content-Based_Multi-Modal_Fact-Checking_of_Out-of-Context_Images_via_Online_Resources_CVPR_2022_paper.html)
+    - S Abdelnabi, R Hasan, M Fritz, CVPR, 2022.
+
+- Sentence-Level Evidence Embedding for Claim Verification with Hierarchical Attention Networks [[link]](https://ink.library.smu.edu.sg/sis_research/4557/).
+    - J Ma, W Gao, S Joty, KF Wong. ACL, 2019.
+
+- Evidence Inference Networks for Interpretable Claim Verification [[link]](https://ink.library.smu.edu.sg/sis_research/4557/).
+    - L Wu, Y Rao, L Sun, W He. AAAI, 2021.
+
+- GERE: Generative Evidence Retrieval for Fact Verification [[link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531827)
+    - J Chen, R Zhang, J Guo, Y Fan, X Cheng, SIGIR, 2022.
+
+- Where Are the Facts? Searching for Fact-checked Information to Alleviate the Spread of Fake News [[link]](https://aclanthology.org/2020.emnlp-main.621/)
+    - N Vo, K Lee, EMNLP, 2020.
+
+- DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning [[link]](https://aclanthology.org/D18-1003/)
+    - K Popat, S Mukherjee, A Yates, G Weikum, EMNLP, 2020.
+
+- Evidence-Aware Hierarchical Interactive Attention Networks for Explainable Claim Verification
+    - L Wu, Y Rao, X Yang, W Wang, A Nazir, IJCAI, 2021.
+
+-  The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News [[link]](https://dl.acm.org/doi/abs/10.1145/3209978.3210037)
+    - N Vo, K Lee, SIGIR, 2018.
+
+- Bias Mitigation for Evidence-aware Fake News Detection by Causal Intervention
+    - J Wu, Q Liu, W Xu, S Wu, SIGIR, 2022.
 
 - Fake News Detection via Knowledge-driven Multimodal Graph Convolutional Networks.
   [[link]](https://dl.acm.org/doi/10.1145/3372278.3390713)
