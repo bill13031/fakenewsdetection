@@ -91,6 +91,14 @@ Markdown format:
 - Improving rumor detection by promoting information campaigns with transformer-based generative adversarial learning.
   [[link]](https://ieeexplore.ieee.org/document/9540337)
   - J Ma, J Li, W Gao, Y Yang. IEEE Transactions on Knowledge and Data Engineering, 2023.
+ 
+- Meta-prompt based learning for low-resource false information detection.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S030645732300016X)
+  - Y Huang, M Gao, J Wang, J Yin, K Shu, Q Fan. Information Processing & Management, 2023.
+    
+- Conquering cross-source failure for news credibility: Learning generalizable representations beyond content embedding.
+  [[link]](https://dl.acm.org/doi/10.1145/3477495.3531816)
+  - YH Huang, TW Liu, SR Lee.  *WWW*, 2020.
 =======
 ## Multi-modal Detection
 - Multi-Modal Adversarial Adaptive Network for Misinformation Detection on Social Media [[link]](https://ieeexplore.ieee.org/abstract/document/9859648/).
@@ -200,6 +208,53 @@ Markdown format:
   [[code]](https://github.com/yingqichao/fnd-bootstrap)
   - Q Ying, X Hu, Y Zhou, Z Qian, D Zeng. *AAAI*, 2023.
  
+- ARCNN framework for multimodal infodemic detection.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0893608021004342)
+  - C Raj, P Meel. Neural Networks, 2022.
+ 
+- Multimodal disentangled domain adaption for social media event rumor detection.
+  [[link]](https://ieeexplore.ieee.org/document/9285217)
+  - H Zhang, S Qian, Q Fang, C Xu. IEEE Transactions on Multimedia, 2020.
+ 
+- Multimodal disentangled domain adaption for social media event rumor detection.
+  [[link]](https://ieeexplore.ieee.org/document/9285217)
+  - H Zhang, S Qian, Q Fang, C Xu. IEEE Transactions on Multimedia, 2020.
+ 
+- Multimodal fake news analysis based on image–text similarity.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/10049384)
+  - X Zhang, S Dadkhah, AG Weismann. IEEE Transactions on Computational Social Systems, 2023.
+  
+- Cross-modal knowledge distillation in multi-modal fake news detection.
+  [[link]](https://ieeexplore.ieee.org/document/9747280/)
+  - Z Wei, H Pan, L Qiao, X Niu, P Dong. *ICASSP*, 2022.
+  
+- Multimodal fusion network with latent topic memory for rumor detection.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9428404)
+  - J Chen, Z Wu, Z Yang, H Xie. *ICME*, 2021.
+ 
+- BCMF: A bidirectional cross-modal fusion model for fake news detection.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0306457322001662)
+  - C Yu, Y Ma, L An, G Li. Information Processing & Management, 2022.
+ 
+- Multimodal fake news detection via progressive fusion networks.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0306457322002217)
+  - J Jing, H Wu, J Sun, X Fang, H Zhang. Information Processing & Management, 2023.
+ 
+- Positive Unlabeled Fake News Detection Via Multi-Modal Masked Transformer Network.
+  [[link]](https://ieeexplore.ieee.org/document/10089519)
+  - J Wang, S Qian, J Hu, R Hong. IEEE Transactions on Multimedia, 2023.
+ 
+- Cross-Platform Multimodal Misinformation: Taxonomy, Characteristics and Detection for Textual Posts and Videos.
+  [[link]](https://aaai.org/papers/00651-cross-platform-multimodal-misinformation-taxonomy-characteristics-and-detection-for-textual-posts-and-videos/)
+  - N Micallef, M Sandoval-Castañeda, A Cohen. *ICWSM*, 2022.
+ 
+- Causal Inference for Leveraging Image-text Matching Bias in Multi-modal Fake News Detection.
+  [[link]](https://ieeexplore.ieee.org/document/9996587)
+  - L Hu, Z Chen, ZZJ Yin, L Nie. IEEE Transactions on Knowledge and Data Engineering, 2022.
+ 
+- Understanding the Use and Abuse of Social Media: Generalized Fake News Detection With a Multichannel Deep Neural Network.
+  [[link]](https://ieeexplore.ieee.org/document/9956917)
+  - RK Kaliyar, A Goswami, P Narang. IEEE Transactions on Computational Social Systems, 2022.
 ## Using Social Context
 
 ### User Information
@@ -296,6 +351,26 @@ Markdown format:
 - Reinforcement Subgraph Reasoning for Fake News Detection.
   [[link]](https://dl.acm.org/doi/10.1145/3534678.3539277)
   - R Yang, X Wang, Y Jin, C Li, J Lian, X Xie. *KDD*, 2022.
+    
+- Meta-Path-based Fake News Detection Leveraging Multi-level Social Context Information.
+  [[link]](https://dl.acm.org/doi/10.1145/3511808.3557394)
+  - J Cui, K Kim, SH Na, S Shin. *CIKM*, 2022.
+   
+- Preventing profiling for ethical fake news detection.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0306457322003077)
+  - L Allein, MF Moens, D Perrotta. Information Processing & Management, 2023.
+   
+- Mistr: A multiview structural-temporal learning framework for rumor detection.
+  [[link]](https://ieeexplore.ieee.org/document/9524525)
+  - J Li, P Bao, H Shen, X Li. IEEE Transactions on Big Data, 2021.
+    
+- MFAN: Multi-modal Feature-enhanced Attention Networks for Rumor Detection.
+  [[link]](www.ijcai.org/proceedings/2022/335)
+  - J Zheng, X Zhang, S Guo, Q Wang, W Zang, Y Zhang. *IJCAI*, 2022.
+   
+- Studying and understanding characteristics of post-syncing practice and goal in social network sites.
+  [[link]](https://dl.acm.org/doi/10.1145/3457986)
+  - P Zhang, B Liu, X Ding, T Lu, H Gu, N Gu. ACM Transactions on the Web, 2021.
 ### Comment
 - Cross-Modal Adversarial Contrastive Learning for Multi-Modal Rumor Detection [[link]](https://ieeexplore.ieee.org/abstract/document/10096883).
   - T Zou, Z Qian, P Li, Q Zhu, ICASSP, 2023.
@@ -326,6 +401,26 @@ Markdown format:
 - Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection.
   [[link]](https://aclanthology.org/2020.acl-main.49/)
   - L Zhong, J Cao, Q Sheng, J Guo, Z Wang. *ACL*, 2020.
+ 
+- EMET: Embeddings from multilingual-encoder transformer for fake news detection.
+  [[link]](https://ieeexplore.ieee.org/document/9625796)
+  - S Schwarz, A Theóphilo. *ICASSP*, 2020.
+  
+- What and Why Towards Duo Explainable Fauxtography Detection under Constrained Supervision.
+  [[link]](https://ieeexplore.ieee.org/document/9627681)
+  - Z Kou, D Zhang, L Shang. IEEE Transactions on Big Data, 2021.
+  
+- Explainable Detection of Fake News on Social Media Using Pyramidal Co-Attention Network.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9908576)
+  - F Khan, R Alturki, G Srivastava. IEEE Transactions on Computational Social Systems, 2022.
+ 
+- SeRN: Stance extraction and reasoning network for fake news detection.
+  [[link]](https://ieeexplore.ieee.org/document/9414787)
+  - J Xie, S Liu, R Liu, Y Zhang. *ICASSP*, 2021.
+  
+- Human Cognition-based Consistency Inference Networks for Multi-modal Fake News Detection.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/10138033/)
+  - L Wu, P Liu, Y Zhao, P Wang. IEEE Transactions on Knowledge and Data Engineering, 2023.
 ## Fact-checking
 - A Survey on Automated Fact-Checking [[link]](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking).
     - Z Guo, M Schlichtkrull, A Vlachos. Transactions of the ACL, 2022.
@@ -422,6 +517,18 @@ Markdown format:
 - CrowdGraph: A Crowdsourcing Multi-modal Knowledge Graph Approach to Explainable Fauxtography Detection.
   [[link]](https://dl.acm.org/doi/10.1145/3555178)
   - Z Kou, Y Zhang, D Zhang, D Wang. *HCI*, 2022.
+  
+- Attributed multi-relational attention network for fact-checking url recommendation.
+  [[link]](https://dl.acm.org/doi/abs/10.1145/3357384.3358006)
+  - D You, N Vo, K Lee, Q Liu. *CIKM*, 2019.
+  
+- EvidenceNet: Evidence Fusion Network for Fact Verification.
+  [[link]](https://dl.acm.org/doi/abs/10.1145/3357384.3358006)
+  - Z Chen, SC Hui, F Zhuang, L Liao, F Li, M Jia.  *WWW*, 2022.
+    
+- MetaDetector: Meta Event Knowledge Transfer for Fake News Detection.
+  [[link]](https://dl.acm.org/doi/10.1145/3532851)
+  - Y Ding, B Guo, Y Liu, Y Liang, H Shen. ACM Transactions on Intelligent Systems and Technology, 2022.
 ## Datasets
 
 ## Other
@@ -435,6 +542,9 @@ Markdown format:
   [[link]](https://ojs.aaai.org/index.php/ICWSM/article/view/7279)
   - L Bozarth, C Budak. *ICWSM*, 2020.
  
+- FactDrill: A data repository of fact-checked social media content to study fake news incidents in India.
+  [[link]](https://ojs.aaai.org/index.php/ICWSM/article/view/19384/19156)
+  - S Singhal, RR Shah, P Kumaraguru. *ICWSM*, 2022.
     
 - Can the crowd identify misinformation objectively? The effects of judgment scale and assessor's background.
   [[link]](https://dl.acm.org/doi/10.1145/3397271.3401112)
@@ -443,3 +553,15 @@ Markdown format:
 - Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments.
   [[link]](https://aclanthology.org/P19-1635/)
   - CC Chen, HH Huang, H Takamura. *ACL*, 2019.
+
+- Identifying cost-effective debunkers for multi-stage fake news mitigation campaigns.
+  [[link]](https://dl.acm.org/doi/10.1145/3488560.3498457)
+  - X Xu, K Deng, X Zhang. *WSDM*, 2022.
+    
+- Visual Persuasion in COVID-19 Social Media Content: A Multi-Modal Characterization.
+  [[link]](https://dl.acm.org/doi/10.1145/3487553.3524647)
+  - ME Unal, A Kovashka, WT Chung, YR Lin. *WWW*, 2022.
+    
+- Attacking Fake News Detectors via Manipulating News Social Engagement.
+  [[link]](https://dl.acm.org/doi/10.1145/3543507.3583868)
+  - H Wang, Y Dou, C Chen, L Sun, PS Yu. *WWW*, 2023.
